@@ -37,11 +37,11 @@
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Telecine Premium HD">
-    <display-name lang="pt">Telecine Premium</display-name>
+    <display-name lang="pt">Telecine Premium HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Telecine Action HD">
-    <display-name lang="pt">Telecine Action</display-name>
+    <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Telecine Touch">
