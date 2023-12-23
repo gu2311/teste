@@ -84,8 +84,12 @@
     <display-name lang="pt">Telecine Cult HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="HBO">
-    <display-name lang="pt">HBO</display-name>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="HBO Plus">
